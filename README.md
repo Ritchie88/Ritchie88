@@ -11,7 +11,7 @@ I am a Graduate of Carleton University with a Honours BSc in Computer Science! I
 
 -  Most of my projects are available on [Github](https://github.com/Ritchie88).
 -  How to reach me: ryan.ma.ritchie@gmail.com.
--  Checkout my [Resume]().
+-  Checkout my [Resume](https://github.com/Ritchie88/Ritchie88/blob/main/RyanRitchieResume.pdf).
 
 ### Languages and Tools:
 
