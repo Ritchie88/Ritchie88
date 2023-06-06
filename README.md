@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryanmaritchie/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ryanritchie88/)
 
-### Happy to see you here!
+### I'm Happy to see you here!
 
 I am a Graduate of Carleton University with a Honours BSc in Computer Science! I am passionate developer who enjoys learning modern tech stacks and technologies, then applying these skills to make impactful projects into reality.
 
